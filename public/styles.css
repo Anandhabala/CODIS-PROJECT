@@ -1,0 +1,393 @@
+/*home*/
+#whiteboderhome {
+  background-color: #fffaf2;
+  height: 31.5rem;
+  width: 48rem;
+  border-radius: 35px;
+}
+.homeblackContainerborder {
+  background-color: #1b1a17;
+  border-radius: 30px;
+  height: 31rem;
+  width: 46.5rem;
+}
+#hometexti {
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+  font-style: italic;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+}
+#homeimagemmain {
+  width: 45rem;
+}
+#hometextii {
+  text-align: center;
+  font-weight: bold;
+  font-size: medium;
+  font-style: italic;
+  font-family: "Arial Narrow Bold";
+  color: #00f9ea;
+}
+#createACwholedesign {
+  border-style: groove;
+  background-color: #1b1a17;
+}
+#acreateACcoinstylei {
+  border-style: groove;
+  border-color: gold;
+  background-color: #1b1a17;
+  width: 320px;
+  height: 170px;
+  border-radius: 19px;
+}
+#createAcoinimage {
+  width: 18.7rem;
+  height: 9rem;
+  padding-top: 3px;
+}
+#labelCA {
+  color: #00f9ea;
+  font-weight: bold;
+  padding-right: 29%;
+}
+.submitcreateAC {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 90px;
+  height: 25px;
+  border-radius: 30rem;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+#createAcsucess {
+  text-align: center;
+  font-weight: bolder;
+  font-size: large;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+}
+.createACanother {
+  color: #fffaf2;
+  background-color: #1b1a17;
+  width: 30%;
+  height: 37px;
+  border-radius: 30rem;
+}
+/*login*/
+
+#loginheader {
+  color: #fffaf2;
+  border-style: groove;
+  border-color: red;
+  background-color: red;
+  width: 15%;
+  font-weight: bolder;
+  font-size: 130%;
+  font-family: "Arial Narrow Bold";
+  border-radius: 30rem;
+  text-align: center;
+}
+#loginwholedesign {
+  border-style: groove;
+  background-color: #1b1a17;
+  padding-top: 3%;
+}
+.card-body {
+  padding-top: 1%;
+}
+#labellUN {
+  color: #00f9ea;
+  font-weight: bolder;
+  padding-right: 30%;
+}
+#labellEA {
+  color: #00f9ea;
+  font-weight: bolder;
+  padding-right: 27%;
+}
+#labellpw {
+  color: #00f9ea;
+  font-weight: bolder;
+  padding-right: 30%;
+}
+.submitlogin {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 90px;
+  height: 30px;
+  border-radius: 30rem;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+.loginanother {
+  color: #fffaf2;
+  background-color: #1b1a17;
+  width: 30%;
+  height: 37px;
+  border-radius: 30rem;
+}
+#loginsucess {
+  text-align: center;
+  font-weight: bolder;
+  font-size: large;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+}
+/*deposit*/
+#depositcurrencyimage {
+  width: 18.7rem;
+  height: 10rem;
+  padding-top: 3px;
+}
+#depositwholedesign {
+  border-style: groove;
+  background-color: #1b1a17;
+  height: 500px;
+}
+#depositcurrencyimagestylei {
+  border-style: groove;
+  border-color: gold;
+  background-color: #1b1a17;
+  width: 320px;
+  height: 170px;
+  border-radius: 19px;
+}
+#depositheader {
+  color: #fffaf2;
+  border-style: groove;
+  border-color: red;
+  background-color: red;
+  width: 13%;
+  font-weight: bold;
+  font-style: italic;
+  border-radius: 30rem;
+}
+.addanotherdeposit {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 30%;
+  height: 37px;
+  border-radius: 30rem;
+}
+#labeldeposit {
+  color: #00f9ea;
+  font-weight: bold;
+  padding-right: 23%;
+}
+#labelspacedeposit {
+  padding-bottom: 10px;
+}
+.depositsubmit {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 90px;
+  height: 40px;
+  border-radius: 30rem;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+#successdeposit {
+  text-align: center;
+  font-weight: bolder;
+  font-size: large;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+}
+#depositbalance {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Arial Narrow Bold";
+  color: #fffaf2;
+}
+/*withdraw*/
+#withdrawwholedesign {
+  border-style: groove;
+  background-color: #1b1a17;
+  height: 500px;
+}
+#withdrawheader {
+  color: #fffaf2;
+  border-style: groove;
+  border-color: red;
+  background-color: red;
+  width: 13%;
+  font-weight: bold;
+  border-radius: 30rem;
+}
+#withdrawatmimagestylei {
+  border-style: groove;
+  border-color: gold;
+  background-color: #1b1a17;
+  width: 320px;
+  height: 170px;
+  border-radius: 19px;
+}
+#withdrawatmimage {
+  width: 18.7rem;
+  height: 10rem;
+  padding-top: 3px;
+}
+#withdrawbalance {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Arial Narrow Bold";
+  color: #fffaf2;
+}
+#labelwithdraw {
+  color: #00f9ea;
+  font-weight: bold;
+  padding-right: 23%;
+}
+#labelspacewithdraw {
+  padding-bottom: 10px;
+}
+.submitbuttonwithdraw {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 90px;
+  height: 40px;
+  border-radius: 30rem;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+#withdrawsuccess {
+  text-align: center;
+  font-weight: bolder;
+  font-size: large;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+}
+.addanotherwithdraw {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 30%;
+  height: 37px;
+  border-radius: 30rem;
+}
+/*alldata*/
+#alldatastylei {
+  border-style: groove;
+  border-color: gold;
+  background-color: skyblue;
+  width: 170%;
+  height: 170px;
+  border-radius: 19px;
+}
+#alldataheader {
+  color: #fffaf2;
+  border-style: groove;
+  border-color: red;
+  background-color: red;
+  width: 13%;
+  font-weight: bold;
+  border-radius: 30rem;
+  text-align: center;
+}
+#alldatalist {
+  text-align: center;
+  font-weight: bolder;
+  font-size: larger;
+  font-family: "Arial Narrow Bold";
+  color: violet;
+  padding-top: 30px;
+}
+.tablehead {
+  background-color: #120d07;
+  color: #fffaf2;
+  font-weight: bold;
+  font-family: "Times New Roman";
+  text-align: center;
+  font-style: italic;
+  border-radius: 50rem;
+}
+td {
+  color: #00f9ea;
+  background: #120d07;
+  border-radius: 30rem;
+  text-align: center;
+  font-style: italic;
+  border-style: double;
+  border-color: yellow;
+}
+
+.form-control {
+  color: violet;
+  background-color: #1b1a17;
+  border-radius: 30rem;
+  width: 28rem;
+  font-weight: bolder;
+  font-style: italic;
+  border-style: groove;
+  border-color: yellow;
+}
+#nhboder {
+  border-color: #fffaf2;
+  height: 45px;
+}
+body {
+  font-family: "Arial Narrow Bold";
+  background-color: #06113c;
+}
+.Card {
+  border-color: #1b1a17;
+}
+/*NAVBAR*/
+#navbarspiner {
+  border-color: #fffaf2;
+}
+.navbar-brand {
+  color: #fffaf2;
+}
+.nav-link {
+  font-size: 10px;
+}
+.navbar-brand {
+  font-size: 20px;
+  color: gold;
+}
+#navbarlogoborder {
+  border-style: double;
+  border-color: greenyellow;
+}
+#navbarlogo {
+  width: 3rem;
+  height: 3rem;
+}
+#navbarflagpart1 {
+  border-style: groove;
+  border-color: orange;
+  background-color: orange;
+  border-bottom-left-radius: 30%;
+  border-top-left-radius: 30%;
+  width: 48px;
+  height: 33px;
+}
+#navbarflagpart2 {
+  border-style: groove;
+  border-color: green;
+  background-color: darkgreen;
+  border-bottom-right-radius: 30%;
+  border-top-right-radius: 30%;
+  width: 48px;
+  height: 33px;
+}
+#navbarflagtext {
+  font-family: "Arial Narrow Bold";
+  font-weight: bold;
+  color: #1b1a17;
+  padding-left: 6px;
+  padding-right: 6px;
+  background-color: #fffaf2;
+}
+#navbarboder {
+  border-color: #00f9ea;
+  border-style: double;
+}
